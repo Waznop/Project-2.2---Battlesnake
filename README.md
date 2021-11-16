@@ -31,7 +31,7 @@ You have the same `make` commands as usual (format, test, build, all, clean). Yo
 
 ## The Battlesnake game
 
-The game will be similar to how it was in Project 2 Part 1, except there can be multiple snakes playing at the same time. Here are the modified rules:
+The game will be similar to how it was in [Project 2 Part 1](https://github.com/Waznop/Project-2.1---Snake), except there can be multiple snakes playing at the same time. Here are the modified rules:
 
 1. Human or bot-controlled snakes move on a 2D board.
 1. At the beginning, each snake is 3 cases long (but squished into 1 case).
@@ -116,7 +116,7 @@ Let's say we have a variable `GameState gs` like the one in the input arguments 
 * `gs.food`: List of positions on the board that contain food. 
 * `gs.snakes`: List of snakes in the current game, dead or alive.
 
-**Note**: Refer to Project 2 part 1 for information about custom types `Pos` and `Move`.
+**Note**: Refer to [Project 2 part 1](https://github.com/Waznop/Project-2.1---Snake) for information about custom types `Pos` and `Move`.
 
 #### BattleSnake
 
